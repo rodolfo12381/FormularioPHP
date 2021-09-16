@@ -1,0 +1,43 @@
+.principal {
+    padding: 0px;
+    margin: 0 auto;
+    width: 50%;
+}
+.form {
+    width: 50%;
+    margin: 300px auto;
+}
+input{
+    border-radius: 10px;
+    border: 1px solid rgb(40, 176, 255);
+    background-color: rgb(173, 173, 173);
+    color: white;
+    float: right;
+    margin-left: 203px;
+    margin-bottom: 20px;
+    width: 200px;
+}
+label {
+    float: left;
+    max-width: 60%;
+    width: 200px;
+    margin: 10px;
+    padding-left: 50px;
+    
+   
+}
+#btn-cadastro {
+     width: 100px;
+     background-color: rgb(38, 212, 38);
+     border: none;
+}
+::placeholder {
+    color: white;
+}
+
+#corpo-tabela {
+    max-width: 50%;
+    margin: 100px auto;
+    color: white;
+    background-color: black;
+}
